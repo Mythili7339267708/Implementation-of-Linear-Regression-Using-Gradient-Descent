@@ -21,7 +21,7 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 
-NMAE: V MYTHILI(CSE)
+NAME: V MYTHILI(CSE)
 REG NO: 212223040123
 ```
 import numpy as np
